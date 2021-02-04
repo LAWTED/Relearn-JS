@@ -1,1 +1,3 @@
-Relearn-JS
+# Relearn-JS
+
+### blog: lawted.github.io
