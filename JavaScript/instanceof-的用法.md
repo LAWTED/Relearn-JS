@@ -23,3 +23,4 @@ console.log(typeof a);//object
 console.log(a instanceof Array);//Array
 ```
 
+instanceof 不能用来判断原始属性
